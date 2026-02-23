@@ -12,13 +12,13 @@ Listed below are various aspects of the assignment.  When you turn in your work,
 
 ### Level 1 (4 pts)
 
-_____ 1 pt: All classes, methods, and attributes are named as requested in the assignment specifications
+___Y__ 1 pt: All classes, methods, and attributes are named as requested in the assignment specifications
 
-_____ 1 pt: The `Engine` class contains appropriately-encapsulated attributes to store information about its fuel type, capacity, and current level
+___Y__ 1 pt: The `Engine` class contains appropriately-encapsulated attributes to store information about its fuel type, capacity, and current level
 
-_____ 1 pt: The `Engine` class has a functional constructor
+___Y__ 1 pt: The `Engine` class has a functional constructor
 
-_____ 1 pt: The `Engine` class has `refuel()` and `go()` methods that correctly modify the fuel level
+___Y__ 1 pt: The `Engine` class has `refuel()` and `go()` methods that correctly modify the fuel level
 
 ### Level 2 (3 pts)
 
@@ -40,7 +40,7 @@ _____ 1 pt: The `Train` class has all expected methods, making use of methods fr
 
 ## General Items:
 
-_____ 4 pts: Programs implement interfaces and compile without errors or warnings
+___Y__ 4 pts: Programs implement interfaces and compile without errors or warnings
 
 _____ 2 pts: Executes fully & consistently without crashing (exception/freeze)
 

@@ -26,11 +26,11 @@ ___Y__ 1 pt: The `Car` class contains appropriately-encapsulated attributes to s
 
 ___Y__ 1 pt: The `Car` class has functional `addPassenger(...)` and `removePassenger(...)` methods
 
-_____ 1 pt: The `Car` class has a `printManifest()` method that prints a nicely-formatted roster of all `Passenger`s currently aboard the car
+___Y__ 1 pt: The `Car` class has a `printManifest()` method that prints a nicely-formatted roster of all `Passenger`s currently aboard the car
 
 ### Level 3 (3 pts)
 
-_____ 1 pt: The `Passenger` class uses appropriate methods from the `Car` class to implement its `boardCar(...)` and `getOffCar(...)` methods
+___Y__ 1 pt: The `Passenger` class uses appropriate methods from the `Car` class to implement its `boardCar(...)` and `getOffCar(...)` methods
 
 _____ 1 pt: The `Train` class has all expected attributes / relationships with the other classes
 
@@ -42,9 +42,9 @@ _____ 1 pt: The `Train` class has all expected methods, making use of methods fr
 
 ___Y__ 4 pts: Programs implement interfaces and compile without errors or warnings
 
-_____ 2 pts: Executes fully & consistently without crashing (exception/freeze)
+___Y__ 2 pts: Executes fully & consistently without crashing (exception/freeze)
 
-_____ 2 pt: Complies with style guidelines (missing items 1 pt each):
+___Y__ 2 pt: Complies with style guidelines (missing items 1 pt each):
 
       _____ Classes & class members all have Javadoc header comments
 
@@ -56,6 +56,6 @@ _____ 2 pt: Complies with style guidelines (missing items 1 pt each):
 
       _____ Methods avoid confusing side effects
 
-_____ 1 pt: All required files included with submission (including completed `rubric.md` file)
+___Y__ 1 pt: All required files included with submission (including completed `rubric.md` file)
 
-_____ 1 pt: `reflection.md` contains your reflection on the assignment
+___Y__ 1 pt: `reflection.md` contains your reflection on the assignment
